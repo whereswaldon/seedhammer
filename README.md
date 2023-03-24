@@ -109,4 +109,4 @@ in the lower right corner of the screen.
 ### License
 
 The files is this repository are in the public domain as described in the [LICENSE](LICENSE) file,
-expect files in directories with their own LICENSE files.
+except files in directories with their own LICENSE files.
